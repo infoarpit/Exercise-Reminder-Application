@@ -19,7 +19,7 @@ execution_count = 0
 t_now = dt.datetime.now()
 
 # path to reminders.txt file
-REM_FILE = "C:/Users/Arpit/AppData/Roaming/Sublime Text 3/Packages/User/Iartapp/abf.txt"
+REM_FILE = "json/abf.txt"
 
 a = []
 execution_count=0
